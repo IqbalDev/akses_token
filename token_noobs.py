@@ -32,7 +32,7 @@ def banner_noobs():
                 print " "
                 runntxt(bl+"     L I F E   O F   P R O G R A M M E R")
                 print pu+"+-------------------------------------------+"
-                print "| Author: Iqbalz Noobs                       |"
+                print "| Mod By: Iqbalz Noobs                       |"
                 print "| FB    : Iqbalznoobs                        |"
                 print "| Github: https://www.github.com/IqbalzNoobs |"
                 print g+ "+-------------------------------------------+"
