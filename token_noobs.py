@@ -1,5 +1,5 @@
 # Team: Life Of Programmer
-# author: Iqbalz Noobs
+# Mod By: Iqbalz Noobs
 # klo gak ada passion jangan jadi programmer, ngoding itu berat kamu gk akan kuat...
 
 import os
